@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/hello-hi-henlo-FAFo1M7EC4gRZ4HETH/giphy.gif" height="170" alt="Vegan Hello GIF by joonasjoonas">
+  <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" height="170" alt="Hello GIF">
 </p>
-
 
 ###
 
