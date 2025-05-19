@@ -74,7 +74,7 @@
   <a href="https://codeforces.com/profile/lnb_334" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
-  <a href="https://www.hackerrank.com/username" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/lutfun_nahar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
   <a href="https://www.facebook.com/Lutfunnaharbarsha/" target="_blank" rel="noopener noreferrer">
