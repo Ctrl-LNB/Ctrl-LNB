@@ -57,6 +57,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" /> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="40" alt="Word" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
 </div>
 <br>
 
