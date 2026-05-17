@@ -26,7 +26,7 @@
 ### 🌐 Portfolio  
 
 Check out my portfolio to check my works more efficiently:  
-👉 [Visit My Portfolio](https://barsha-portfolio.pages.dev/)
+👉 [Visit My Portfolio](https://shorturl.at/9lvhr)
 
 
 ###   
