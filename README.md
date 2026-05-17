@@ -69,21 +69,34 @@ Check out my portfolio to check my works more efficiently:
 <br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="40" alt="Word" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
+<img width="12" />
+
+<img src="https://img.icons8.com/color/48/000000/cisco.png" height="40" alt="Cisco" />
+<img width="12" />
+
+<img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="40" alt="Word" />
+<img width="12" />
+
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+<img width="12" />
+
+<img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
 </div>
 <br>
 
@@ -133,8 +146,6 @@ Check out my portfolio to check my works more efficiently:
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ctrl-LNB&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctrl-LNB&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ctrl-LNB&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
 <br>
