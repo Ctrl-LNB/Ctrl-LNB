@@ -23,13 +23,28 @@
 </ul>
 <br>
 
-### 🌐 Portfolio  
+### 
+
+🌐 Portfolio  
 
 Check out my portfolio to check my works more efficiently:  
 👉 [Visit My Portfolio](https://shorturl.at/9lvhr)
 
 
 ###   
+
+<h3 align="left">📄 Research</h3>
+
+<p align="left">
+  I am passionate about exploring research in Computer Science and emerging technologies.<br><br>
+
+  🔬 Check out my research work and publications here:<br>
+  👉 <a href="https://ieeexplore.ieee.org/document/11490554" target="_blank">View My Research</a>
+</p>
+
+<br>
+
+###
 
 <h3 align="left">🛠 Languages</h3>
 <br>
