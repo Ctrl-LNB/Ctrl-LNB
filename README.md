@@ -28,7 +28,7 @@
 🌐 Portfolio  
 
 Check out my portfolio to check my works more efficiently:  
-👉 [Web Technologies](https:lnb.page.gd)
+👉 [Web Technologies](https://lnb.page.gd)
 👉 [Google Sites](https://shorturl.at/9lvhr)
 
 
